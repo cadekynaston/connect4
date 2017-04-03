@@ -1,3 +1,3 @@
 # connect4
 
-A game I created from scratch. No frameworks. 100% my code.
+A game I created from scratch. 100% my code.
